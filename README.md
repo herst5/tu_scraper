@@ -42,7 +42,8 @@ vi fromAddr.yaml
 vi toAddr.txt
 
 # プログラム実行。初回起動モード
-python scraping.py```
+python scraping.py
+```
 
 # その他
 
