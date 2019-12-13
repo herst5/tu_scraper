@@ -1,0 +1,3 @@
+from_addr: example@gmail.com
+my_password: example
+host: smtp.gmail.com
