@@ -1,7 +1,7 @@
 # tu_scraper
 
 東京大学文学部・大学院人文社会系研究科( http://www.l.u-tokyo.ac.jp/ )の  
-大学院生向けお知らせ一覧ページ(http://www.l.u-tokyo.ac.jp/student/student_news/news_pg.html)に  
+大学院生向けお知らせ一覧ページ( http://www.l.u-tokyo.ac.jp/student/student_news/news_pg.html )に  
 新規掲載されたお知らせを抽出し、メールにて通知します。
 
 # 機能
@@ -28,7 +28,7 @@ app.logは日毎でログローテートが行われます。
 # 動作環境
 
 * Python 3系
-* Pythonライブラリ Beautiful Soup(https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* Pythonライブラリ Beautiful Soup( https://www.crummy.com/software/BeautifulSoup/bs4/doc/ )
 
 # 使い方
 
@@ -56,4 +56,4 @@ python scraping.py
 
 # 作者
 
-herst5(https://github.com/herst5)
+herst5( https://github.com/herst5 )
